@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="101">
+    <personal_details>
+      <first_name>Julie</first_name>
+      <last_name>Vega</last_name>
+      <dob>2001-10-19</dob>
+      <gender>Female</gender>
+    </personal_details>
+    <employment_details>
+      <position>Database Administrator</position>
+      <salary>1000000.0</salary>
+    </employment_details>
+    <contact_information>
+      <email>julievega10@gmail.com</email>
+      <phone>8281990013</phone>
+    </contact_information>
+  </employee> 
+  <employee id="102">
+    <personal_details>
+      <first_name>Paul</first_name>
+      <last_name>Jackson</last_name>
+      <dob>1995-09-24</dob>
+      <gender>Male</gender>
+    </personal_details>
+    <employment_details>
+      <position>Web Designer</position>
+      <salary>3000000.50</salary>
+    </employment_details>
+    <contact_information>
+      <email>pauljackson@gmail.com</email>
+      <phone>579204783</phone>
+    </contact_information>
+  </employee> 
+  <employee id="103">
+    <personal_details>
+      <first_name>Morgan</first_name>
+      <last_name>Grider</last_name>
+      <dob>1997-05-20</dob>
+      <gender>Female</gender>
+    </personal_details>
+    <employment_details>
+      <position>Software Developer</position>
+      <salary>2400000.50</salary>
+    </employment_details>
+    <contact_information>
+      <email>morgangrider@gmail.com</email>
+      <phone>648392699</phone>
+    </contact_information>
+  </employee> 
+</employees>
