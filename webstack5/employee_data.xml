@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+ <employee>
+    <firstname>Julie</firstname>
+    <lastname>Vega</lastname>
+    <dob>2001-10-19</dob>
+    <gender>female</gender>
+    <contactno>8281990013</contactno>
+    <email>julievega10@gmail.com</email>
+    <position>Database Administrator</position>
+    <salary>1000000.0</salary>
+ </employee>
+ <employee>
+    <firstname>Paul</firstname>
+    <lastname>Jackson</lastname>
+    <dob>1995-09-24</dob>
+    <gender>male</gender>
+    <contactno>5792047833</contactno>
+    <email>pauljackson@gmail.com</email>
+    <position>Web Designer</position>
+    <salary>3000000.50</salary>
+ </employee>
+ <employee>
+    <firstname>Morgan</firstname>
+    <lastname>Grider</lastname>
+    <dob>1997-05-20</dob>
+    <gender>female</gender>
+    <contactno>648392699</contactno>
+    <email>morgangrider@gmail.com</email>
+    <position>Software Developer</position>
+    <salary>2400000.50</salary>
+ </employee>
+ </employees>
